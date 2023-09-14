@@ -66,7 +66,7 @@ Nossa inteligência artificial atua nessa falha que foi detectada por nossos pro
 
 ✅Resultados do mês anterior:
 </p>
-<img src="https://rendaativa.online/wp-content/uploads/2023/06/download-1.png" alt="resultado anterior" />
+<img className='renda' src="https://rendaativa.online/wp-content/uploads/2023/06/download-1.png" alt="resultado anterior" />
 
 
 <p>Desde o ano passado recebo convites de grandes C4SS1NOS para trabalhar na segurança e agora estão convidando minha equipe pra cuidar dessas falhas que dá tanto prejuízo pra eles</p>

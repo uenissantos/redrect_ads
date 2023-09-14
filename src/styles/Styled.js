@@ -91,7 +91,7 @@ p{font-size:20px;margin:10px 20%}
 
 
 
-            @media (min-width: 320px) {
+            @media (max-width: 320px) {
        
                 .title{font-size:18px}
 .image{margin:auto; width:250px;img{width:100%}}
@@ -104,7 +104,7 @@ h3{font-size:18px; margin:10px 10%}
 p{font-size:18px;margin:10px 10%}
 
 
-
+.renda{width:250px}
 
 
 .footer{background-color:gray;p{font-size:8px}}
