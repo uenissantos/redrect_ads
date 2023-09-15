@@ -53,7 +53,8 @@ text-align: center;
 justify-content: center;
 align-items: center;
 p,h1,h2,h3,span{color:white;margin:auto}
-
+width: 100vw;
+overflow: hidden;
 span{ font-weight:bold;color:#FF8200}
 
 
@@ -79,7 +80,7 @@ p{font-size:20px;margin:10px 20%}
 
 @keyframes large {
 				from {
-				width	: 25% ;font-size
+				width	: 25% ;
 				}
 
 				to {
@@ -94,7 +95,7 @@ p{font-size:20px;margin:10px 20%}
             @media (max-width: 320px) {
        
                 .title{font-size:18px}
-.image{margin:auto; width:250px;img{width:100%}}
+.image{margin:auto; width:250px;img{width:80%}}
 
 
 h1{font-size:24px}
@@ -110,6 +111,21 @@ p{font-size:18px;margin:10px 10%}
 .footer{background-color:gray;p{font-size:8px}}
 
       }
+
+
+
+
+
+
+	  @keyframes large {
+				from {
+				width	: 85% ;
+				}
+
+				to {
+				width:90% ;
+				}
+			}
 
 
 
