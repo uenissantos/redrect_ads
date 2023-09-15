@@ -95,7 +95,7 @@ p{font-size:20px;margin:10px 20%}
             @media (max-width: 320px) {
        
                 .title{font-size:18px}
-.image{margin:auto; width:250px;img{width:80%}}
+.image{margin:auto; width:200px;img{width:80%}}
 
 
 h1{font-size:24px}
