@@ -27,28 +27,30 @@ export const App = () => {
 
       function redirecionarParaURL() {
         // Use window.location.href para redirecionar o usuário para a URL especificada
-        window.location.href = 'https://app.betserver.site/MESTREDOSSINAIS';
+        window.location.href = 'https://api.whatsapp.com/send?phone=5521935000963';
       }
 return (
 
 <Styled.Wrrape>
-<div className='wrapper-title'><p className='title'> RESTA {numeroAleatorio} VAGAS DO O APLICATIVO GRATUITO </p>
+<div className='wrapper-title'><p className='title'> RESTA APENAS  {numeroAleatorio} VAGAS GARANTA A SUA AGORA MESMO </p>
+<p className='invite'> Agora só resta você fazer parte desse movimento ainda hoje!
+Mas corra antes que (eles) derrubem mais um site nosso. </p>
 </div>
 <div className='image'><img src={pro} alt="" />
 </div>
 
 
 <h1> ACESSO A SALA COM MAIS DE 10 BOTS </h1>
-<h2>DE R$ 97/MêS POR R$0,00 </h2>
+<h2>DE R$97 POR R$20,00 </h2>
 
 
 
-<h3> A PARTIR DE AGORA VOÇÊ TERÁ <span>ACESSO GRATUITO</span> PARA TODOS OS DIAS .COPIE E COLE NOSSAS OPERAÇÕES DE FORMA 100% AUTOMATICA</h3>
+<h3> A PARTIR DE AGORA VOÇÊ TERÁ <span>ACESSO </span> A INTELIGENÇIA ARTIFICIAL QUE QUANTO MAIS JOGA MAIS ELE APRENDE  </h3>
 
 
 
 
-<button onClick={redirecionarParaURL}  > <span>vaga gratuita</span> <p>Somente HOJE {data}  </p></button>
+<button onClick={redirecionarParaURL}  > <span>GARANTIR VAGA</span> <p>Somente HOJE {data}  </p></button>
 
 
 
@@ -78,7 +80,7 @@ Nossa inteligência artificial atua nessa falha que foi detectada por nossos pro
 Mas corra antes que (eles) derrubem mais um site nosso. </p>
 
 
-<button  onClick={redirecionarParaURL}  > <span>vaga gratuita</span> <p>Somente HOJE </p></button>
+<button onClick={redirecionarParaURL}  > <span>GARANTIR VAGA</span> <p>Somente HOJE {data}  </p></button>
 
 
 

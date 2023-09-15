@@ -67,7 +67,7 @@ h2{font-size:28px}
 h3{font-size:20px; margin:10px 20%}
 
 
-button{animation: large 1s linear infinite;border-radius:8px;background-color:#FF8200;margin:30px; width:25%;span{color:white;font-size:28px;font-weight:bold; letter-spacing:2px};p{font-size:18px;margin:0}}
+button { position:relative;height: 80px;animation: large 1s linear infinite;border-radius:8px;background-color:#FF8200;margin:30px; width:25%;span{color:white;font-size:28px;font-weight:bold; letter-spacing:2px};p{font-size:18px;margin:0}}
 
 
 p{font-size:20px;margin:10px 20%}
@@ -79,11 +79,11 @@ p{font-size:20px;margin:10px 20%}
 
 @keyframes large {
 				from {
-					 width: 250px; height: 80px;
+				width	: 25% ;font-size
 				}
 
 				to {
-				 width: 280px; height: 82px
+				width:30% ;
 				}
 			}
 
