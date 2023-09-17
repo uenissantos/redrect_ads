@@ -41,16 +41,16 @@ Mas corra antes que (eles) derrubem mais um site nosso. </p>
 
 
 <h1> ACESSO A SALA COM MAIS DE 10 BOTS </h1>
-<h2>DE R$97 POR R$20,00 </h2>
+<h2>DE R$97 POR R$00,00 </h2>
 
 
 
-<h3> A PARTIR DE AGORA VOÇÊ TERÁ <span>ACESSO </span> A INTELIGENÇIA ARTIFICIAL QUE QUANTO MAIS JOGA MAIS ELE APRENDE  </h3>
+<h3> A PARTIR DE AGORA VOÇÊ TERÁ <span>ACESSO GRATUITO</span> A INTELIGENÇIA ARTIFICIAL QUE QUANTO MAIS JOGA MAIS ELE APRENDE  </h3>
 
 
 
 
-<button onClick={redirecionarParaURL}  > <span>GARANTIR VAGA</span> <p>Somente HOJE {data}  </p></button>
+<button onClick={redirecionarParaURL}  > <span>GARANTIR VAGA GRATUITA</span> <p>Somente HOJE {data}  </p></button>
 
 
 
@@ -80,7 +80,7 @@ Nossa inteligência artificial atua nessa falha que foi detectada por nossos pro
 Mas corra antes que (eles) derrubem mais um site nosso. </p>
 
 
-<button onClick={redirecionarParaURL}  > <span>GARANTIR VAGA</span> <p>Somente HOJE {data}  </p></button>
+<button onClick={redirecionarParaURL}  > <span>GARANTIR VAGA GRATUITA</span> <p>Somente HOJE {data}  </p></button>
 
 
 
