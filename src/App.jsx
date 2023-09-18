@@ -27,7 +27,7 @@ export const App = () => {
 
       function redirecionarParaURL() {
         // Use window.location.href para redirecionar o usuário para a URL especificada
-        window.location.href = 'https://api.whatsapp.com/send?phone=5521935000963';
+        window.location.href = 'https://app.betserver.site/MESTREDOSSINAIS';
       }
 return (
 
